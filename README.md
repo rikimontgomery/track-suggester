@@ -4,10 +4,11 @@
 
 ## _By Riki Montgomery_
 
-## Description
+### Description
 
 _A checklist for getting started with your partner each day._
 
+'''
 ## Daily Checklist
 
 * _..._
@@ -15,10 +16,11 @@ _A checklist for getting started with your partner each day._
 * _..._
 
 _..._
+'''
 
 ## Known Bugs
 
-_It depends since we're learning something new each day._
+_It depends, since we're learning new things each day._
 
 ## Support and contact details
 
