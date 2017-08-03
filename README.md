@@ -8,7 +8,6 @@
 
 _A checklist for getting started with your partner each day._
 
-```
 ## Daily Checklist
 
 * _..._
@@ -16,7 +15,6 @@ _A checklist for getting started with your partner each day._
 * _..._
 
 _..._
-```
 
 ## Known Bugs
 
