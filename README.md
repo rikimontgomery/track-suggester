@@ -53,7 +53,7 @@ $ git branch (branch name/gh-pages)
 
 $ git merge (branch name)
 
-git branch -D (branch name)
+$git branch -D (branch name)
 ```
 
 ## Known Bugs
