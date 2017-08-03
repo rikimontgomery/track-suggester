@@ -12,7 +12,9 @@ _A checklist for getting started with your partner each day._
 ```
 DO FIRST
 --
-.pairs (do this in ~ directory)
+$touch .pairs (do this in ~ directory)
+
+$ atom .pairs
 
 pairs:
   al: Ada Lovelace
