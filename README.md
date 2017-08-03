@@ -1,28 +1,29 @@
-# _Epicodus Template_
+# **Epicodus Template**
+###### _By Riki Montgomery_
 
 #### A helpful template for getting started each day, 08.02.2017
 
-#### By _**Riki Montgomery**_
-
 ## Description
 
-_..._
+_A checklist for getting started with your partner each day._
 
-## Setup/Installation Requirments
+## Setup/Installation Requirements
 
-*_..._
-*_..._
-*_..._
+* _..._
+* _..._
+* _..._
 
 _..._
 
 ## Known Bugs
 
-_..._
+_It depends since we're learning something new each day._
 
 ## Support and contact details
 
-_If you have any updates or suggestions please contact [Riki Montgomery](mostriki820@gmail.com) or make a contribution yourself._
+_If you have any updates or suggestions please contact [Riki Montgomery] or make a contribution yourself._
+
+[Riki Montgomery]: mostriki820@gmail.com
 
 ### License
 
