@@ -1,4 +1,4 @@
-# **Epicodus Template**
+# **DAILY CHECKLIST**
 
 #### A helpful template for getting started each day, 08.02.2017
 
