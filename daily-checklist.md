@@ -31,7 +31,7 @@ $ git pair (both initials)
 
 $ git about (see pairing assignments)
 
-$ git remote add (both initials) (repo link)
+$ git remote add (initials) (repo link)
 
 $ git remote -v (see pairing status)
 ```
