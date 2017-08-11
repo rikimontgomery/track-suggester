@@ -1,5 +1,36 @@
+.jumbotron {
+  font-family: 'Lato', sans-serif;
+  font-weight: bold;
+  background-color: white;
+}
+
+#mainCopy {
+  font-family: 'Roboto', sans-serif;
+}
+
 .suggester {
   display: none;
+}
+
+.center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/*button {
+  box-shadow: 0 3px 0 0 #007299;
+}
+
+button {
+  background: #33a6cc;
+  box-shadow: none;
+  margin-bottom: -3px;
+  margin-top: 3px;
+}*/
+
+.submit.round {
+	border-radius: 24px;
 }
 
 #finalMessage1 {

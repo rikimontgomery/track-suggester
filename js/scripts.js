@@ -43,7 +43,8 @@ $(document).ready(function() {
       $("finalMessage2").slideToggle(800);
       $("finalMessage3").slideToggle(800);
       $("#suggester").slideToggle(800);
-      $(".extraText").slideToggle(800); //not sure what
+      $("#mainCopy").slideToggle(800);
+      // $("#jumbotron").slideToggle(800);
       $("h1").fadeToggle(800);
     });
 
