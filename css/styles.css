@@ -1,0 +1,15 @@
+.letter {
+  display: none;
+}
+
+.extraText {
+  display: none;
+}
+
+#finalMessage {
+  margin-top:20%;
+  font-size: 2em;
+  float: left;
+  font-family: 'Raleway', sans-serif;
+  display: none;
+}
