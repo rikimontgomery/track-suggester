@@ -44,7 +44,7 @@ $(document).ready(function() {
       $("finalMessage3").slideToggle(800);
       $("#suggester").slideToggle(800);
       $("#mainCopy").slideToggle(800);
-      // $("#jumbotron").slideToggle(800);
+      $("#jumbotron").slideToggle(800);
       $("h1").fadeToggle(800);
     });
 
