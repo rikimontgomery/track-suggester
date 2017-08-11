@@ -11,7 +11,6 @@ $(document).ready(function() {
 
 
   $("#finalMessage").show();
-
   event.preventDefault();
 });
 
