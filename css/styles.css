@@ -2,10 +2,15 @@
   font-family: 'Lato', sans-serif;
   font-weight: bold;
   background-color: white;
+  padding: 0.5em 0.6em;
+}
+
+h1 {
+  font size: 2em;
 }
 
 #mainCopy {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Raleway', sans-serif;
 }
 
 .suggester {
@@ -34,23 +39,23 @@ button {
 }
 
 #finalMessage1 {
-  margin-top:20%;
+  margin-top:5%;
   font-size: 2em;
   float: left;
-  font-family: 'Slabo 27px', serif;
+  font-family: 'Raleway', sans-serif;
   display: none;
 }
 
 #finalMessage2 {
-  margin-top:20%;
+  margin-top:5%;
   font-size: 2em;
   float: left;
-  font-family: 'Dancing Script', cursive;
+  font-family: 'Raleway', sans-serif;
   display: none;
 }
 
 #finalMessage3 {
-  margin-top:20%;
+  margin-top:5%;
   font-size: 2em;
   float: left;
   font-family: 'Raleway', sans-serif;
