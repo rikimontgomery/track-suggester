@@ -36,13 +36,13 @@ if (checkEmptyField("age", age)); {
     return;
   }
 
+  if (parseInt(age) > 80) {
+    alert("I'm impressed! You're never to old to learn something new.")
+  }
+
   if ((macPc === 'PC' && swallow === "What kind of question is that?")) {
     alert("Programming may not be for you.")
     return;
-  }
-
-  if (parseInt(age) > 80) {
-    alert("I'm impressed! You're never to old to learn something new.")
   }
 
   if ((macPc === "PC" && swallow === "African of european?")) {
