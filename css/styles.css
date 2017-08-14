@@ -1,12 +1,12 @@
 .jumbotron {
   font-family: 'Lato', sans-serif;
   font-weight: bold;
-  background-color: white;
   padding: 0.5em 0.6em;
+  background-color: white;
 }
 
 h1 {
-  font size: 2em;
+  font size: .5em;
 }
 
 #mainCopy {
