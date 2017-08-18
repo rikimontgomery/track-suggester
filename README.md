@@ -16,7 +16,7 @@ _(Week 2) JavaScript & jQuery Project._
 
 2. _Make sure your have a text editor and your own GitHub account setup to work with your terminal._
 
-3. _Break things._
+3. _Break things!_
 
 ## Known Bugs
 
