@@ -10,15 +10,15 @@ $(document).ready(function() {
   var courseChoice3 = " Ruby/Rails ";
 
   if (age < 17) {
-    alert("You're never too young to learn how to program, but you don't have to decide anything today. Break everything!")
+    alert("You're never too young to learn how to program, but you don't have to decide anything today. Break everything!");
     return;
   } else if (age > 100) {
-    alert("You don't have much time! You should be traveling the world!")
+    alert("You don't have much time! You should be traveling the world!");
     return;
   };
 
   if ((macPc === 'PC' && money < 50000 && swallow === "I don't know")) {
-    alert("You're looking in the wrong industry.")
+    alert("You're looking in the wrong industry.");
     return;
   } else if ((macPc === 'PC' && swallow === 'African or european?' || "I don't know" && money > 50000)) {
     $("#course1").empty().append(courseChoice1);
