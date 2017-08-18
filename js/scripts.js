@@ -17,10 +17,10 @@ $(document).ready(function() {
     return;
   }
 
-  if ((macPc === 'PC' && money <= 49999 && swallow === "I don't know")) {
+  if ((macPc === 'PC' && money <= 50000 && swallow === "I don't know")) {
     alert("You're looking in the wrong industry.");
     return;
-  } else if ((macPc === 'PC' && swallow === 'African or european?' || "I don't know" && money => 50000)) {
+  } else if ((macPc === 'PC' && swallow === 'African or european?' || "I don't know" && money > 50000)) {
     $("#course1").empty().append(courseChoice1);
     $("#courseChoice1").slideToggle(800);
     $("#finalMessage1").show();
