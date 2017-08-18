@@ -36,16 +36,15 @@ $(document).ready(function() {
 
   $(".firstName").text(firstName);
   event.preventDefault();
+});
+
+  $("#suggester").submit(function() {
+    $("finalMessage1").slideToggle(800);
+    $("finalMessage2").slideToggle(800);
+    $("finalMessage3").slideToggle(800);
+    $("#suggester").slideToggle(800);
+    $("#mainCopy").slideToggle(800);
+    $("#jumbotron").slideToggle(800);
+    $("h1").fadeToggle(800);
   });
-
-    $("#suggester").submit(function() {
-      $("finalMessage1").slideToggle(800);
-      $("finalMessage2").slideToggle(800);
-      $("finalMessage3").slideToggle(800);
-      $("#suggester").slideToggle(800);
-      $("#mainCopy").slideToggle(800);
-      $("#jumbotron").slideToggle(800);
-      $("h1").fadeToggle(800);
-    });
-
 });
