@@ -15,7 +15,7 @@ $(document).ready(function() {
   } else if (age > 100) {
     alert("You don't have much time! You should be traveling the world!");
     return;
-  };
+  }
 
   if ((macPc === 'PC' && money < 50000 && swallow === "I don't know")) {
     alert("You're looking in the wrong industry.");
@@ -32,7 +32,7 @@ $(document).ready(function() {
     $("#course3").empty().append(courseChoice3);
     $("#courseChoice3").slideToggle(800);
     $("#finalMessage3").show();
-  };
+  }
 
   $(".firstName").text(firstName);
   event.preventDefault();
